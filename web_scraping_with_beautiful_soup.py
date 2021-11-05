@@ -20,7 +20,7 @@ from requests import get # Request URL to access content
 
 """### Step 2: Create a variable url which contains the link"""
 
-print("Enter any year above and including 2000")
+print("Enter any year above 2000")
 year = input()
 url = 'http://www.imdb.com/search/title?release_date='+year+'&sort=num_votes,desc&page=1'
 response = get(url)
