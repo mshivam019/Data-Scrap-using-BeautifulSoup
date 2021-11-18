@@ -8,3 +8,5 @@ Submission for INT213 assignment
 ## pip install pandas
 ## pip install requests
 ## pip install openpyxl
+
+Link to [Google Colab](https://colab.research.google.com/drive/1qwEihNC7edAGfxlkdF4svlktf5BfbP-4)
