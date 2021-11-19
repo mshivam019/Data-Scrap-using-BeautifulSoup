@@ -28,8 +28,6 @@ html_soup = BeautifulSoup(response.text, 'html.parser')
 
 movie_containers = html_soup.find_all('div', class_ = 'lister-item mode-advanced')
 
-first_movie = movie_containers[0]
-
 """### Step 4: Initiliaze the lists"""
 
 names = []
