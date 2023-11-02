@@ -9,5 +9,4 @@ Submission for INT213 assignment
 ## pip install requests
 ## pip install openpyxl
 
-Link to [Google Colab](https://colab.research.google.com/drive/1qwEihNC7edAGfxlkdF4svlktf5BfbP-4)
-Link to the [Executable](https://drive.google.com/file/d/1KQWqTTzKM5VMpjtjLO0ENim5dL5G5KEp/view?usp=drivesdk)
+Link to [Google Colab](https://colab.research.google.com/drive/1cUNVs8mLtpZ3Yz8EeIdo37THte4nIJ0L#scrollTo=ilKlOIR_8xga)
